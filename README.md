@@ -1,13 +1,13 @@
-# CalculadoraIMC
+# Calculadora IMC
 
 Exercício Javascript + Html + Css
 Calculadora de Índice de Massa Corporal. 
 
-***OBS: Ao digitar o valor da altura, utilize "." ex. "1.70", "1.85" ***
+***OBS: Ao digitar o valor da altura, utilize "." ex: "1.70", "1.85" ***
 
 A função da Calculadora de IMC é o cálculo do valor da seguinte fórmula:
 
-***IMC = ( Peso / ( Altura*Altura)***
+***IMC = ( Peso / ( Altura x Altura)***
 
 Caso o resultado seja inferior à 18,5 o mesmo se encontra abaixo do peso.
 Se o resultado estiver abaixo de 25, está no peso ideal.
